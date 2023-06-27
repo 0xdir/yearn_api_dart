@@ -1,6 +1,6 @@
 name: yearn_api_dart
 description: A wrapper around the Yearn API. Responses are Dart objects, allowing you to effortlessly query the information using dot notation.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/0xdir/yearn_api_dart
 
 environment:
